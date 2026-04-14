@@ -1,7 +1,7 @@
 ---
 <h1 align="center">Mutual Github Kuyy ach</h1>
 
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME_KAMU&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Theikol&theme=tokyonight"/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
