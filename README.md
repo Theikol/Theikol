@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=(RPL)+Rekayasa+Peternak+Lele.;(OOP)+Orang+Orangan+PHP;(IoT)+Ikatan+orang+Tersiksa" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Mutual Github Kuyy+(RPL)+Rekayasa+Peternak+Lele.;(OOP)+Orang+Orangan+PHP;(IoT)+Ikatan+orang+Tersiksa" alt="Typing SVG" />
 
 <br/>
 
