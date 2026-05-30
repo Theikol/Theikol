@@ -50,8 +50,8 @@ func main() {
             "Ubuntu", "Ollama",
         },
         Currently: "Building Ikol Cinevers" +
-                   " — film catalog + TMDB",
-        Mood:      "☕ caffeinated & dangerous",
+                   "film catalog + TMDB",
+        Mood:      "caffeinated & dangerous",
     }
     _ = me
 }
@@ -193,7 +193,7 @@ $ cat daily_routine.log
 10:30  dapet solusi, hapus semua yang ada
 11:00  ngoding lagi, jauh lebih percaya diri
 13:00  makan siang, tetap mikirin bug itu
-15:00  bug fixed — ternyata typo doang
+15:00  bug fixed - ternyata kurang ;
 18:00  push ke main, no review (YOLO)
 23:00  "satu fitur lagi, sebentar kok"
 02:00  zzz... (laptop masih nyala btw)
@@ -214,7 +214,7 @@ $ uptime
 
 ```
 [1]  Ganti OS kayak ganti baju — Ubuntu, Windows, Ubuntu lagi
-[2]  Stack favorit minggu ini beda dari minggu lalu, dan itu normal
+[2]  Stack favorit minggu ini beda dari minggu lalu hehehe
 [3]  Nulis komentar di kode lebih susah dari nulis kodenya sendiri
 [4]  "Bentar lagi selesai" rata-rata butuh 3 hari dan 2 malam
 [5]  Punya lebih banyak project di lokal daripada yang ada di GitHub
